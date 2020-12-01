@@ -1,2 +1,2 @@
 restore Vs revert Vs reset
-create, merge & delete branch
+branch
