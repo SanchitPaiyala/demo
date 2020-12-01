@@ -1,2 +1,4 @@
 restore Vs revert Vs reset
 111
+leanrned conflict and resolved one
+found that conflcit only works with number and not characters
